@@ -34,4 +34,4 @@ Olá! Meu nome é **André Luiz**, sou desenvolvedor .py, .php e .js, entusiasta
 
 <br>
 
-[![Github Status](https://github-readme-stats.vercel.app/api?username=MrAndreLuiz&include_all_commits=true&hide=contribs&show_icons=true&theme=dracula)](https://github.com/MrAndreLuiz/MrAndreLuiz)
+<!--- [![Github Status](https://github-readme-stats.vercel.app/api?username=MrAndreLuiz&include_all_commits=true&hide=contribs&show_icons=true&theme=dracula)](https://github.com/MrAndreLuiz/MrAndreLuiz) -->
